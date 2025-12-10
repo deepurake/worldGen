@@ -1,0 +1,9 @@
+# OpenAI API client for LLM and image generation
+openai>=1.0.0
+
+# Matplotlib for visualization
+matplotlib>=3.5.0
+
+trimesh
+pyglet<2
+shapely>=2.0.0
